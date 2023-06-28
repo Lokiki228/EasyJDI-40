@@ -7,4 +7,7 @@
 ## Методы
 ### Конструктор
 `JDI40 jdi(Serial); //в конструктор передаем Stream объект, Serial или SoftSerial`
-### 
+### Функции
+```cpp
+void configDevice(bool mode, uint8_t cs, uint8_t set); //Передаем режим(о нем ниже), передаем пин на который цепляем cs, передаем пин на который цепляем set
+```
