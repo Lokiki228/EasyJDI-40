@@ -1,0 +1,22 @@
+#by Lok 2023
+
+#Конструктор
+JDI40	KEYWORD1
+
+#Методы
+configDevice	KEYWORD2
+begin	KEYWORD2
+on	KEYWORD2
+off	KEYWORD2
+setAllSettings	KEYWORD2
+setBaud	KEYWORD2
+setRfID	KEYWORD2
+setDevID	KEYWORD2
+setChannel	KEYWORD2
+setPower	KEYWORD2
+print	KEYWORD2
+
+#Константы
+
+_SIMPLEX	LITERAL1
+_DUPLEX	LITERAL1
